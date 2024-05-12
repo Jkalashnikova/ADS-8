@@ -1,5 +1,5 @@
 // Copyright 2021 NNTU-CS
-#include "train.h" #include "train.h"
+#include "train.h"
 
 Train::Train() {
     first = nullptr;
